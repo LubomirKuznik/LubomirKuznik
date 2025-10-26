@@ -10,3 +10,5 @@ Better late than never! :)
 What have I learned thus far?
 - [x] GitHub - is set up. Starting to deep dive into HTML, CSS and js.
 - [ ] Next steps - codespaces, Docker, Python, Flask
+
+https://www.lkportfolio.com/
