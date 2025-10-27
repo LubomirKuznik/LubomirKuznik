@@ -8,8 +8,8 @@ Programming and GitHub are fantastic, and I wish I had started a long time ago.
 Better late than never! :)<br><br>
 
 **What have I learned thus far?**
-- [x] GitHub - Basic setup is done.
-- [ ] Next steps - Deep dive into HTML and CSS.
-- [ ] Next steps - JS, GitHub Codespaces, Docker, Python, Flask
+- [x] GitHub - Basic setup: done
+- [ ] Next steps - Deep dive into HTML and CSS: started
+- [ ] Next steps - JS, GitHub Codespaces, Docker, Python, Flask: not started yet
 
 https://www.lkportfolio.com/
