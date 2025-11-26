@@ -2,7 +2,7 @@ Hi,
 
 My name is Lubomir Kuznik.
 
-I've been learning IT infrastructure and coding since Sep 2025.
+I've been learning IT infrastructure and coding since Sep 2025.  
 Programming and GitHub are fantastic, and I wish I had started a long time ago.
 
 Better late than never! :)<br><br>
