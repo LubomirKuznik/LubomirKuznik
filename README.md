@@ -14,7 +14,3 @@ Better late than never! :)<br><br>
 - [ ] Next steps - JavaScript, Docker: not started yet
 
 https://www.lkportfolio.com/
-
-<a href="https://www.lkportfolio.com/" target="_blank" rel="noopener noreferrer">
-  www.lkportfolio.com
-</a>
