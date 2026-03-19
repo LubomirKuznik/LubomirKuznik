@@ -2,10 +2,8 @@
 
 My name is **Lubomir Kuznik**.
 
-I’ve been learning IT infrastructure and software development since **December 2025**.  
+I’ve been learning IT infrastructure and software development since **December 2025**. Better late than never. 🚀  
 I’m passionate about building practical skills in programming, cloud technologies, and modern development tools.
-
-Better late than never. 🚀
 
 ---
 
