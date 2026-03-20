@@ -25,6 +25,6 @@ I’m passionate about building practical skills in programming, cloud technolog
 
 ## 🎯 Goals
 
-To actively develop skills in software development, cloud infrastructure, and DevOps practices to translate business needs into working technical solutions.  
+To actively build skills in software development, cloud infrastructure, and DevOps practices to translate business needs into working technical solutions.  
 
 I enjoy learning by building and sharing my progress here.
