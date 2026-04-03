@@ -12,7 +12,7 @@ I’m passionate about building practical skills in programming, cloud technolog
 - ✅ **Git & GitHub** – version control fundamentals  
 - 🚧 **HTML & CSS** – currently building web basics  
 - 🚧 **Python, JavaScript, Docker** – exploring development and containers  
-- 🚧 **Cloud computing** – Google Cloud, Azure, SQL  
+- 🚧 **Cloud computing** – Google Cloud, Azure, Cloudflare 
 
 ---
 
